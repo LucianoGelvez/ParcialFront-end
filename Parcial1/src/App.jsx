@@ -1,12 +1,12 @@
 import './App.css'
-import Card from './componentes/Card'
+import Form from './componentes/Form'
+
 
 
 function App() {
   return (
     <div>
-     <Card></Card>
-     <form></form>
+     <Form/>
     </div>
   )
 }
